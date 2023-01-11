@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/car-rental-dashboard/static/css/main.a4dc0fd6.css",
+    "main.js": "/car-rental-dashboard/static/js/main.50923c69.js",
+    "static/media/remixicon.svg?t=1590207869815": "/car-rental-dashboard/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/car-rental-dashboard/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/car-rental-dashboard/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/car-rental-dashboard/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/car-rental-dashboard/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/car-01.png": "/car-rental-dashboard/static/media/car-01.853892a453ff0f4cb988.png",
+    "static/media/car-05.png": "/car-rental-dashboard/static/media/car-05.6381cf2bac4ffbec35e3.png",
+    "static/media/car-04.png": "/car-rental-dashboard/static/media/car-04.2e4cd8463e585fcad69f.png",
+    "static/media/car-06.png": "/car-rental-dashboard/static/media/car-06.487847d405ad076ea08d.png",
+    "static/media/car-02.png": "/car-rental-dashboard/static/media/car-02.afc5836a441bc5fc59ec.png",
+    "static/media/car-03.png": "/car-rental-dashboard/static/media/car-03.65682e78fe239b4a6992.png",
+    "static/media/mini-car-01.png": "/car-rental-dashboard/static/media/mini-car-01.168a343d8c19289fbd29.png",
+    "static/media/mini-car-02.png": "/car-rental-dashboard/static/media/mini-car-02.0a16e0de72a5b214775e.png",
+    "static/media/mini-car-03.png": "/car-rental-dashboard/static/media/mini-car-03.9a9227fff3c5879458cd.png",
+    "index.html": "/car-rental-dashboard/index.html",
+    "main.a4dc0fd6.css.map": "/car-rental-dashboard/static/css/main.a4dc0fd6.css.map",
+    "main.50923c69.js.map": "/car-rental-dashboard/static/js/main.50923c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4dc0fd6.css",
+    "static/js/main.50923c69.js"
+  ]
+}
